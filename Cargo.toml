@@ -1,0 +1,8 @@
+[package]
+name = "sigmaos_dwarfdump"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_dwarfdump"
+path = "src/lib.rs"
