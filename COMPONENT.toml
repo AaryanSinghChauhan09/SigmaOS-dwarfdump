@@ -3,7 +3,7 @@ name = "SigmaOS-dwarfdump"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "dwarfdump component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
